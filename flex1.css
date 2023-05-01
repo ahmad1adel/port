@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+.edit{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 190px;
+}
+.edit1{
+    color: white;
+    margin-left: 35px;
+}
+
+.p1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+p{
+    font: 20px Arial, sans-serif;
+    margin-bottom: 20px;
+}
